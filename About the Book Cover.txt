@@ -1,0 +1,7 @@
+The image on the book cover comes from the commercial project used throughout the book. This is from the final version included with Chapter 18. 
+
+The cover image uses Realistic visual style with both Sun and artifial lighting enabled. Most material textures use PBR materials where possible.
+
+Book cover image by: Paul F. Aubin
+Book cover design by: Michael Brumm
+
